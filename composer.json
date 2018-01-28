@@ -2,7 +2,7 @@
     "name": "swods/randstring",
     "description": "Generate random string",
     "keywords": ["yii2", "swods", "random sting generator", "random sting", "random password"],
-    "license": "BSD",
+    "license": "proprietary",
     "authors": [
         {
             "name": "SSU (SwoDs)",
